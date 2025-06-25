@@ -1,8 +1,7 @@
-
 'use client'
 
 import React from 'react'
-import AIInsightsComponent from '@/components/AIInsightsComponent'
+import AIInsightsComponent from '@/components/AIInsights'
 
 export default function Dashboard() {
   const userData = {
