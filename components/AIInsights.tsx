@@ -1,4 +1,4 @@
-tsx// components/AIInsightsComponent.tsx
+// components/AIInsightsComponent.tsx
 'use client';
 
 import React, { useEffect } from 'react';
