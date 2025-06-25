@@ -1,4 +1,4 @@
-typescript// hooks/useAIInsights.ts
+// hooks/useAIInsights.ts
 import { useState, useCallback } from 'react';
 
 interface AIInsights {
